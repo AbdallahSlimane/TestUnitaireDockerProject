@@ -1,0 +1,5 @@
+172.19.0.1 - - [08/Feb/2023:19:54:30 +0000] "GET / HTTP/1.1" 404 153 "-" "Avast Antivirus"
+172.19.0.1 - - [07/Mar/2023:13:26:27 +0000] "GET / HTTP/1.1" 404 153 "-" "Avast Antivirus"
+172.19.0.1 - - [07/Mar/2023:13:26:42 +0000] "GET /HNAP1/ HTTP/1.1" 404 153 "-" "Avast Antivirus"
+172.19.0.1 - - [07/Mar/2023:13:28:22 +0000] "GET / HTTP/1.1" 404 555 "https://medium.com/@dam1enWeb/symfony-5-2-et-php-8-sous-docker-en-5-minutes-942ca6e94ce0" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
+172.19.0.1 - - [07/Mar/2023:13:28:22 +0000] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"
